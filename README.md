@@ -1,2 +1,4 @@
 # Clustering of NBA Players in 2019  
-With the rise of hybrid player types in the National Basketball Association (NBA)
+It's been a known fact around the NBA that there are many players in the National Basketball Association (NBA) that don't currently fit the traditional player types of the point guard, shooting guard, power forward, small forward, and center. Some of these players have been around the league for awhile such as LeBron James (what can the man not do?) and Pau Gasol (a center that is a decent 3 point shooter).
+
+My goal was to be able to reorganize the players into modern NBA categories; however, I did not exactly know what those categories would be. I decided to take an unsupervised approach to clustering and the resulting ETL, analysis, and modeling can be found in `nbaPlayerClassify.ipynb`
