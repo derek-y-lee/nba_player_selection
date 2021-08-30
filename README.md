@@ -1,3 +1,5 @@
+DEVELOPMENT Version
+
 # Clustering of NBA Players in 2019  
 It's been understood around the NBA that there are many players in the National Basketball Association (NBA) that don't currently fit the traditional player types of the point guard, shooting guard, power forward, small forward, and center. Some of these players have been around the league for awhile such as LeBron James (what can the man not do?) and Pau Gasol (a center that is a decent 3 point shooter). Others are newer such as Nikola Jokic, who is also a well known center that is a great 3 point shooter, or even Steph Curry, a point guard that seemingly launches 3 point shots from anywhere on the court.
 
